@@ -2,6 +2,22 @@ const words = {
     "treated": "обработанный",
     "behavior": "поведение",
     "coercion": "принуждение",
+    "tremble": "дрожать",
+    "leap": "скакать",
+    "flutter": "порхать",
+    "longing": "стремление",
+    "throb": "пульсация",
+    "seize": "хватать",
+    "swiftly": "быстро",
+    "frolic": "веселье",
+    "sill": "подоконник",
+    "naughty": "непослушный",
+    "existing": "существующий",
+    "fluent": "беглый",
+    "kettle": "чайник",
+    "decision": "решение",
+    "hired": "нанятый",
+    "mug": "кружка",
 }
 
 const keys = Object.keys(words);
