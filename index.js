@@ -14,10 +14,10 @@ const words = {
     "naughty": "непослушный",
     "existing": "существующий",
     "fluent": "беглый",
-    "kettle": "чайник",
     "decision": "решение",
     "hired": "нанятый",
     "mug": "кружка",
+    "mankind": "человечество",
 }
 
 const keys = Object.keys(words);
