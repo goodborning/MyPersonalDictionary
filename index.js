@@ -18,6 +18,9 @@ const words = {
     "hired": "нанятый",
     "mug": "кружка",
     "mankind": "человечество",
+    "suggest": "предлагать",
+    "stationery": "канцтовары",
+    "tiptoed ": "на цыпочках",
 }
 
 const keys = Object.keys(words);
