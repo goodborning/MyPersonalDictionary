@@ -21,6 +21,8 @@ const words = {
     "suggest": "предлагать",
     "stationery": "канцтовары",
     "tiptoed ": "на цыпочках",
+    "mouldering ": "гниение",
+    "cabbage ": "капуста",
 }
 
 const keys = Object.keys(words);
