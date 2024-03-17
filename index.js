@@ -23,6 +23,8 @@ const words = {
     "tiptoed ": "на цыпочках",
     "mouldering ": "гниение",
     "cabbage ": "капуста",
+    "observer ": "наблюдатель",
+    "loud ": "громкий",
 }
 
 const keys = Object.keys(words);
