@@ -25,6 +25,9 @@ const words = {
     "cabbage ": "капуста",
     "observer ": "наблюдатель",
     "loud ": "громкий",
+    "mosque ": "мечеть",
+    "gravy ": "подливка",
+    "crowd ": "толпа",
 }
 
 const keys = Object.keys(words);
