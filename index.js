@@ -12,6 +12,7 @@ const words = {
     "frolic": "веселье",
     "sill": "подоконник",
     "naughty": "непослушный",
+    "obedient": "послушный",
     "existing": "существующий",
     "fluent": "беглый",
     "decision": "решение",
@@ -28,6 +29,9 @@ const words = {
     "mosque ": "мечеть",
     "gravy ": "подливка",
     "crowd ": "толпа",
+    "nephew": "племянник",
+    "niece": "племянница",
+    "vulnerable": "уязвимый",
 }
 
 const keys = Object.keys(words);
