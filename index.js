@@ -32,6 +32,11 @@ const words = {
     "nephew": "племянник",
     "niece": "племянница",
     "vulnerable": "уязвимый",
+    "chandelier": "люстра",
+    "obvious": "очевидный",
+    "glad": "радостный",
+    "melted": "расплавленный",
+    "approaching": "приближается",
 }
 
 const keys = Object.keys(words);
