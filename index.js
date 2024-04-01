@@ -37,6 +37,9 @@ const words = {
     "glad": "радостный",
     "melted": "расплавленный",
     "approaching": "приближается",
+    "afford": "предоставлять",
+    "conspicuous": "заметный",
+    "thoughtful": "вдумчивый",
 }
 
 const keys = Object.keys(words);
