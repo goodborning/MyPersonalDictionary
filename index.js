@@ -40,6 +40,8 @@ const words = {
     "afford": "предоставлять",
     "conspicuous": "заметный",
     "thoughtful": "вдумчивый",
+    "woven": "сотканный",
+    "endeavor": "стараться"
 }
 
 const keys = Object.keys(words);
