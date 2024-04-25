@@ -108,7 +108,23 @@ function isCountCheck() {
     let count = 0;
     let numberPattern = /\d+/g;
     let checkboxId;
-    const categoryMap = [
+    
+    let categoryMap = [];
+    let wordsToAdd = {};
+
+    for (let key in words) {
+        categoryMap.push(key);
+        wordsToAdd[key] = Array.from(words[key]);
+        test = [];
+        for (let keyInKey in words[key]) {
+            wordsToAdd[key].push(keyInKey)
+        }
+    }
+
+    console.log("categoryMap", categoryMap)
+    console.log("wordsToAdd", wordsToAdd)
+
+    /* const categoryMap = [
         "animals",
         "emotions",
         "actions",
@@ -124,7 +140,8 @@ function isCountCheck() {
         objects: ['sill', 'mug', 'stationery', 'chandelier', 'mosque'],
         people: ['naughty', 'obedient', 'observer', 'nephew', 'niece', 'mankind'],
         qualities: ['existing', 'fluent', 'vulnerable', 'obvious', 'loud'],
-    };
+    };*/
+    
     let wordsID;
 
     for (i = 0, len = inputs.length; i < len; i++) {
